@@ -1,0 +1,7 @@
+taichi>=1.6.0
+numpy>=1.21.0
+PyQt5>=5.15.0
+jax>=0.4.1
+jaxlib>=0.4.1
+Pillow>=9.0.0
+opencv-python>=4.5.0
